@@ -1,12 +1,28 @@
 {
   "name": "@muaz/simple-npm-package",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple npm package for demonstration purposes and use in a Node.js app.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themuazahmad/simple-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themuazahmad/simple-npm-package.git/issues"
+  },
+  "homepage": "https://github.com/themuazahmad/simple-npm-package.git#readme",
+  "keywords": [
+    "node.js",
+    "javascript",
+    "npm",
+    "package",
+    "example",
+    "demo",
+    "hello world"
+  ],
+  "author": "Muaz Ahmad",
   "license": "ISC"
 }
